@@ -1,0 +1,235 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:data\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\pages\\employeeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:pages\\employeeslist.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\pages\\addnewemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:pages\\addnewemployee.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:pages\\counter.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:pages\\fetchdata.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:shared\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:pages\\_host.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|d:\\desktop\\blazor crud\\blazor crud1 - copy\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{56CAD890-E875-419B-99F6-4F0414FFD855}|EmployeeBlazorCRUD.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e3fb24c2-2e84-3146-a5f8-bc25bbc68f8a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:136:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Data\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Data\\EmployeeService.cs",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Data\\EmployeeService.cs",
+              "RelativeToolTip": "Data\\EmployeeService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:16:18.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T18:13:59.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FetchData.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\FetchData.razor",
+              "RelativeDocumentMoniker": "Pages\\FetchData.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\FetchData.razor",
+              "RelativeToolTip": "Pages\\FetchData.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:48:35.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AddNewEmployee.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\AddNewEmployee.razor",
+              "RelativeDocumentMoniker": "Pages\\AddNewEmployee.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\AddNewEmployee.razor",
+              "RelativeToolTip": "Pages\\AddNewEmployee.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:47:26.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Shared\\MainLayout.razor",
+              "RelativeDocumentMoniker": "Shared\\MainLayout.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Shared\\MainLayout.razor",
+              "RelativeToolTip": "Shared\\MainLayout.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:47:08.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Host.cshtml",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\_Host.cshtml",
+              "RelativeDocumentMoniker": "Pages\\_Host.cshtml",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\_Host.cshtml",
+              "RelativeToolTip": "Pages\\_Host.cshtml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:46:36.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\App.razor",
+              "RelativeDocumentMoniker": "App.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\App.razor",
+              "RelativeToolTip": "App.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:46:05.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesList.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\EmployeesList.razor",
+              "RelativeDocumentMoniker": "Pages\\EmployeesList.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\EmployeesList.razor",
+              "RelativeToolTip": "Pages\\EmployeesList.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:43:35.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Counter.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\Counter.razor",
+              "RelativeDocumentMoniker": "Pages\\Counter.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\Pages\\Counter.razor",
+              "RelativeToolTip": "Pages\\Counter.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:49:30.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\_Imports.razor",
+              "RelativeDocumentMoniker": "_Imports.razor",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\_Imports.razor",
+              "RelativeToolTip": "_Imports.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-25T17:46:06.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Desktop\\Blazor Crud\\Blazor Crud1 - Copy\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-25T17:38:05.446Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

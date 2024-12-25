@@ -1,0 +1,106 @@
+﻿@page "/EmployeesList"
+@using EmployeeBlazorCRUD.Data
+@using EmployeeBlazorCRUD.Models
+@inject EmployeeService employeesservice
+
+
+<NavLink class="nav-link" href="AddEmployee">
+    <span class="oi oi-plus" aria-hidden="true">Add New Employee</span>
+</NavLink>
+
+
+
+@if (EmpObj == null)
+{
+    <p><em>Loading.................</em></p>
+}
+else
+{
+    <label>
+        <input type="checkbox" @bind="IsManualOrder" />
+        Set Manual Order
+    </label>
+
+    <RadzenDataGrid AllowFiltering="false" AllowColumnResize="true" AllowAlternatingRows="true"
+                    AllowSorting="@(!IsManualOrder)" PageSize="10" AllowPaging="true" ShowPagingSummary="true"
+                    Data="@EmpObj" ColumnWidth="150px" TItem="Employee">
+        <Columns>
+            @if (IsManualOrder)
+            {
+                <RadzenDataGridColumn Title="Select for Order" Width="100px">
+                    <Template Context="employee">
+                        <input type="checkbox" @onclick="(() => ToggleOrder(employee))"
+                               checked="@employee.IsSelected" />
+                    </Template>
+                </RadzenDataGridColumn>
+            }
+            <RadzenDataGridColumn TItem="Employee" Property="FirstName" Title="First Name" Width="150px" />
+            <RadzenDataGridColumn TItem="Employee" Property="MiddleName" Title="Middle Name" Width="150px" />
+            <RadzenDataGridColumn TItem="Employee" Property="LastName" Title="Last Name" Width="150px" />
+            <RadzenDataGridColumn TItem="Employee" Property="Designation" Title="Designation" Width="150px" />
+        </Columns>
+    </RadzenDataGrid>
+
+    @if (IsManualOrder)
+    {
+        <button @onclick="SaveOrder" class="btn btn-primary">Save Order</button>
+    }
+}
+
+@code {
+    private List<Employee> EmpObj;
+    private bool IsManualOrder = false;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadEmployees();
+    }
+
+    private async Task LoadEmployees()
+    {
+        EmpObj = await employeesservice.GetAllEmployeesOrdered();
+        UpdateOrderValues();
+    }
+
+    private void UpdateOrderValues()
+    {
+        foreach (var employee in EmpObj)
+        {
+            employee.IsSelected = false;
+        }
+    }
+
+    private void ToggleOrder(Employee employee)
+    {
+        employee.IsSelected = !employee.IsSelected;
+
+        if (employee.IsSelected)
+        {
+            employee.DisplayOrder = EmpObj.Where(e => e.IsSelected).Count();
+        }
+        else
+        {
+            employee.DisplayOrder = 0;
+            ReorderSelectedEmployees();
+        }
+
+        EmpObj = EmpObj.OrderBy(e => e.DisplayOrder == 0 ? int.MaxValue : e.DisplayOrder).ToList();
+    }
+
+    private void ReorderSelectedEmployees()
+    {
+        int order = 1;
+        foreach (var selectedEmployee in EmpObj.Where(e => e.IsSelected).OrderBy(e => e.DisplayOrder))
+        {
+            selectedEmployee.DisplayOrder = order++;
+        }
+    }
+
+    private async Task SaveOrder()
+    {
+        var orderedEmployees = EmpObj.Where(e => e.DisplayOrder > 0).ToList();
+        await employeesservice.UpdateEmployeeOrder(orderedEmployees);
+
+        await LoadEmployees();
+    }
+}

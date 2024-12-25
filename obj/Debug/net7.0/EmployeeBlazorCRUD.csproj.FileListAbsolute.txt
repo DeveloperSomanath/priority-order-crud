@@ -1,0 +1,244 @@
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\appsettings.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.staticwebassets.runtime.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.exe
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.deps.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.runtimeconfig.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\EmployeeBlazorCRUD.pdb
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Humanizer.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.AssemblyReference.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfoInputs.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.CoreCompileInputs.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cs
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.sourcelink.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeBlazorCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeBlazorCRUD.props
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeBlazorCRUD.props
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeBlazorCRUD.props
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\scopedcss\bundle\EmployeeBlazorCRUD.styles.css
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeBlazorCRUD.bundle.scp.css
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.CopyComplete
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\refint\EmployeeBlazorCRUD.dll
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.pdb
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\EmployeeBlazorCRUD.genruntimeconfig.cache
+C:\Users\Manjunath\Desktop\Blazor Crud\EmployeeBlazorCRUD\obj\Debug\net7.0\ref\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\appsettings.json
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.staticwebassets.runtime.json
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.exe
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.deps.json
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.runtimeconfig.json
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.pdb
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.AssemblyReference.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfoInputs.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfo.cs
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.CoreCompileInputs.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cs
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeBlazorCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\scopedcss\bundle\EmployeeBlazorCRUD.styles.css
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeBlazorCRUD.bundle.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\Employee.819DAFF5.Up2Date
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\refint\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.pdb
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\EmployeeBlazorCRUD.genruntimeconfig.cache
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\ref\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1\bin\Debug\net7.0\EmployeeBlazorCRUD.staticwebassets.endpoints.json
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeBlazorCRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Desktop\Blazor Crud\Blazor Crud1\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\appsettings.Development.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.staticwebassets.endpoints.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\appsettings.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.staticwebassets.runtime.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.exe
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.deps.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.runtimeconfig.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\EmployeeBlazorCRUD.pdb
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Azure.Core.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Azure.Identity.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Humanizer.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.CodeDom.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.AssemblyReference.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfoInputs.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.AssemblyInfo.cs
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.csproj.CoreCompileInputs.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.RazorAssemblyInfo.cs
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\scopedcss\bundle\EmployeeBlazorCRUD.styles.css
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\scopedcss\projectbundle\EmployeeBlazorCRUD.bundle.scp.css
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets.build.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets.development.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets.build.endpoints.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeBlazorCRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.EmployeeBlazorCRUD.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.build.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EmployeeBlazorCRUD.props
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\staticwebassets.upToDateCheck.txt
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\Employee.819DAFF5.Up2Date
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\refint\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.pdb
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\EmployeeBlazorCRUD.genruntimeconfig.cache
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\obj\Debug\net7.0\ref\EmployeeBlazorCRUD.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Authorization.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Components.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.AspNetCore.Metadata.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\Radzen.Blazor.dll
+D:\Desktop\Blazor Crud\Blazor Crud1 - Copy\bin\Debug\net7.0\System.Linq.Dynamic.Core.dll
