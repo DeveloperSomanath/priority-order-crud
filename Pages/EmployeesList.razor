@@ -1,14 +1,11 @@
-﻿@page "/EmployeesList"
+@page "/EmployeesList"
 @using EmployeeBlazorCRUD.Data
 @using EmployeeBlazorCRUD.Models
 @inject EmployeeService employeesservice
 
-
 <NavLink class="nav-link" href="AddEmployee">
     <span class="oi oi-plus" aria-hidden="true">Add New Employee</span>
 </NavLink>
-
-
 
 @if (EmpObj == null)
 {
@@ -16,24 +13,17 @@
 }
 else
 {
-    <label>
-        <input type="checkbox" @bind="IsManualOrder" />
-        Set Manual Order
-    </label>
-
     <RadzenDataGrid AllowFiltering="false" AllowColumnResize="true" AllowAlternatingRows="true"
-                    AllowSorting="@(!IsManualOrder)" PageSize="10" AllowPaging="true" ShowPagingSummary="true"
+                    AllowSorting="false" PageSize="10" AllowPaging="true" ShowPagingSummary="true"
                     Data="@EmpObj" ColumnWidth="150px" TItem="Employee">
         <Columns>
-            @if (IsManualOrder)
-            {
-                <RadzenDataGridColumn Title="Select for Order" Width="100px">
-                    <Template Context="employee">
-                        <input type="checkbox" @onclick="(() => ToggleOrder(employee))"
-                               checked="@employee.IsSelected" />
-                    </Template>
-                </RadzenDataGridColumn>
-            }
+            <RadzenDataGridColumn Title="Priority" Width="150px">
+                <Template Context="employee">
+                    <InputNumber Value="@employee.DisplayOrder"
+                                 ValueExpression="(() => employee.DisplayOrder)"
+                                 ValueChanged="@(async (int newPriority) => await HandlePriorityChange(employee, newPriority))" />
+                </Template>
+            </RadzenDataGridColumn>
             <RadzenDataGridColumn TItem="Employee" Property="FirstName" Title="First Name" Width="150px" />
             <RadzenDataGridColumn TItem="Employee" Property="MiddleName" Title="Middle Name" Width="150px" />
             <RadzenDataGridColumn TItem="Employee" Property="LastName" Title="Last Name" Width="150px" />
@@ -41,15 +31,11 @@ else
         </Columns>
     </RadzenDataGrid>
 
-    @if (IsManualOrder)
-    {
-        <button @onclick="SaveOrder" class="btn btn-primary">Save Order</button>
-    }
+    <button @onclick="SaveOrder" class="btn btn-primary">Save Order</button>
 }
 
 @code {
     private List<Employee> EmpObj;
-    private bool IsManualOrder = false;
 
     protected override async Task OnInitializedAsync()
     {
@@ -59,48 +45,48 @@ else
     private async Task LoadEmployees()
     {
         EmpObj = await employeesservice.GetAllEmployeesOrdered();
-        UpdateOrderValues();
     }
 
-    private void UpdateOrderValues()
+    private async Task HandlePriorityChange(Employee employee, int newPriority)
     {
-        foreach (var employee in EmpObj)
+        if (newPriority <= 0) return;
+
+        var existingEmployeeWithPriority = EmpObj.FirstOrDefault(e => e.DisplayOrder == newPriority);
+
+        if (existingEmployeeWithPriority != null)
         {
-            employee.IsSelected = false;
+            await ShiftPriorities(newPriority);
         }
+
+        employee.DisplayOrder = newPriority;
+        ReorderEmployees();
+        StateHasChanged();
     }
 
-    private void ToggleOrder(Employee employee)
+    private async Task ShiftPriorities(int newPriority)
     {
-        employee.IsSelected = !employee.IsSelected;
+        var employeesToShift = EmpObj.Where(e => e.DisplayOrder >= newPriority).OrderBy(e => e.DisplayOrder).ToList();
 
-        if (employee.IsSelected)
+        foreach (var employee in employeesToShift)
         {
-            employee.DisplayOrder = EmpObj.Where(e => e.IsSelected).Count();
-        }
-        else
-        {
-            employee.DisplayOrder = 0;
-            ReorderSelectedEmployees();
+            if (employee.DisplayOrder >= newPriority)
+            {
+                employee.DisplayOrder++;
+            }
         }
 
-        EmpObj = EmpObj.OrderBy(e => e.DisplayOrder == 0 ? int.MaxValue : e.DisplayOrder).ToList();
+        await Task.CompletedTask;
     }
 
-    private void ReorderSelectedEmployees()
+    private void ReorderEmployees()
     {
-        int order = 1;
-        foreach (var selectedEmployee in EmpObj.Where(e => e.IsSelected).OrderBy(e => e.DisplayOrder))
-        {
-            selectedEmployee.DisplayOrder = order++;
-        }
+        EmpObj = EmpObj.OrderBy(e => e.DisplayOrder).ToList();
     }
 
     private async Task SaveOrder()
     {
         var orderedEmployees = EmpObj.Where(e => e.DisplayOrder > 0).ToList();
         await employeesservice.UpdateEmployeeOrder(orderedEmployees);
-
         await LoadEmployees();
     }
 }
